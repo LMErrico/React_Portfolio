@@ -19,7 +19,7 @@ export default function Resume() {
       <p><u>Front-End</u></p>
       <p>HTML </p>
       <p> CSS</p>
-      <p>Hamburger</p>
+      <p>Handelbars</p>
       <p>React Js</p>
       <p> </p>
       <p><u>Back-End</u></p>

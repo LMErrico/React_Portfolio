@@ -39,7 +39,7 @@ export default function Contact() {
 
   return (
     <div>
-      <h3>Contacto</h3>
+      <h3>Contact</h3>
       <form onSubmit={handleSubmit}>
         <label>
           Name:
