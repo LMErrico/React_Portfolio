@@ -25,7 +25,7 @@ export default function Portfolio() {
       title: 'Portfolio',
       imageSrc: '/images/portfolio.png',
       description: 'React',
-      deployedLink: '#',
+      deployedLink: 'https://react-portfolio-le.netlify.app',
       githubLink: 'https://github.com/LMErrico/React_Portfolio',
     },
     {
