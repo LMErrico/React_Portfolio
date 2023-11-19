@@ -29,16 +29,18 @@ export default function Portfolio() {
       githubLink: 'https://github.com/LMErrico/React_Portfolio',
     },
     {
-      title: 'Coming soon',
-      imageSrc: '/images/coming.png',
-      deployedLink: '#',
-      githubLink: 'https://github.com/LMErrico/React_Portfolio.git',
+      title: 'Weather Dashboard',
+      imageSrc: '/images/weather.png',
+      description: 'API/HTML/CSS',
+      deployedLink: 'https://lmerrico.github.io/Weather_Dashboard/',
+      githubLink: 'https://github.com/LMErrico/Weather_Dashboard',
     },
     {
-      title: 'Coming soon',
-      imageSrc: '/images/coming.png',
-      deployedLink: '#',
-      githubLink: 'https://github.com/LMErrico/React_Portfolio.git',
+      title: 'Employee Tracker',
+      imageSrc: '/images/tracker.png',
+      description: 'Node.js/Inquirer/MySQL',
+      deployedLink: 'https://drive.google.com/file/d/1UgKkKADoodcIe1tujxrgFJeUCOGirS9e/view',
+      githubLink: 'https://github.com/LMErrico/Employee_Tracker',
     },
   ];
   return (

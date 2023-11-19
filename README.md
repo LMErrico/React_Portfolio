@@ -23,7 +23,7 @@ N/A
 
 ## Usage
 
-The URL of the functional, deployed application is 
+The URL of the functional, deployed application (Netlify) is https://react-portfolio-le.netlify.app/
 
 Place to share my projects and collaborate on future projects.
 
