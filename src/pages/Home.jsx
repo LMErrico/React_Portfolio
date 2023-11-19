@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '50px', maxWidth: '600px', width: '100%' }}>
+  <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '50px', maxWidth: '600px', width: '100%' }}>
     <img
       src="/images/photo.jpg"
       alt="photo"
@@ -11,7 +11,7 @@ export default function Home() {
       <h3 style={{ textAlign: 'left', fontSize: '1.5em' }}>About Me</h3>
     </div>
   </div>
-  <p style={{ textAlign: 'justify', fontSize: '1.2em', maxWidth: '90%', width: '100%' }}>
+  <p style={{ textAlign: 'justify', fontSize: '1.3em', maxWidth: '90%', width: '100%' }}>
     I am a passionate Colombian lawyer with a strong legal background, excelling in overseeing legal teams, managing high-profile cases, and providing crucial support during critical moments. My dedication to excellence and commitment to continuous learning define my professional approach.
 
     In my legal journey, I represented the State in trials, supported strategies against COVID-19 at the Ministry of Health, and played pivotal roles in the financial sector, maintaining business relationships, overseeing legal teams, and providing legal advice.
