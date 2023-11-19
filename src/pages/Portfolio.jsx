@@ -43,7 +43,9 @@ export default function Portfolio() {
   ];
   return (
      <div>
-      <h3 style={{ fontSize: '1.5em', marginLeft: '20px'}}>Portfolio</h3>
+      <br/>
+      <h3 style={{ fontSize: '1.5em', marginLeft: '20px', textAlign: 'center'}}>Portfolio</h3>
+      <br/>
       <div className="applications-container">
         {applications.map((app, index) => (
           <div key={index} className="application-card">
@@ -68,8 +70,8 @@ export default function Portfolio() {
           display: flex;
           flex-wrap: wrap;
           justify-content: space-between;
-          margin: 0 auto; /* Centrar el contenedor en pantallas más anchas */
-          max-width: 1200px; /* Limitar el ancho máximo del contenedor */
+          margin: 0 auto; 
+          max-width: 1200px; 
         }
         .application-card {
           position: relative;
