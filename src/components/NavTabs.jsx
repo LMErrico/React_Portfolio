@@ -24,7 +24,7 @@ function NavTabs() {
             Lina Errico
           </h1>
         </div>
-        <nav className="collapse navbar-collapse space-x-4" id="navbarNav">
+        <nav className="space-x-4" id="navbarNav">
           <ul className="flex navbar-nav" style={{ marginLeft: 'auto' }}>
             <li className="nav-item p-2">
               <Link
