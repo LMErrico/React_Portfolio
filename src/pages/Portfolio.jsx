@@ -1,13 +1,6 @@
 export default function Portfolio() {
   const applications = [
     {
-      title: 'Refactoring Codes',
-      imageSrc: '/images/horiseon.png',
-      description: 'HTML/CSS',
-      deployedLink: 'https://lmerrico.github.io/HTML_CSS_Git/',
-      githubLink: 'https://github.com/LMErrico/HTML_CSS_Git',
-    },
-    {
       title: 'Dog Finder',
       imageSrc: '/images/dog.png',
       description: 'HTML/Tailwind/JS/APIs',
@@ -20,6 +13,13 @@ export default function Portfolio() {
       description: 'MVC/MySQL',
       deployedLink: 'https://sheltered-bastion-53112-369471263d1d.herokuapp.com',
       githubLink: 'https://github.com/crissyg923/natures-palate',
+    },
+    {
+      title: 'Friendly Fleur',
+      imageSrc: '/images/friendly.png',
+      description: 'MERN',
+      deployedLink: 'https://jsxperience.onrender.com/',
+      githubLink: 'https://github.com/Nehaps29/jsxperience',
     },
     {
       title: 'Portfolio',
